@@ -1,2 +1,3 @@
-# kaggle
-Kaggle data science competitions.
+# Description
+
+Data science competitions.
