@@ -1,5 +1,0 @@
-Dont be patient
-Node 0 took 5.938570022583008 s with Prediction: 0.23581329
-Node 10 took 2.3285984992980957 s with Prediction: 2.5602088
-Node 20 took 2.576469898223877 s with Prediction: 1.5740169
-Node 30 took 2.352309465408325 s with Prediction: 0.72316206
